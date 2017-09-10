@@ -8,7 +8,7 @@ I would like the viewers to comment about my coding also guide me if you find th
   # Python Installation
   
   Python can be downloade from  the link : https://www.python.org/downloads/</br>
-  The examples written in this repositories are based on the python 2.7X</br>
+  The examples written in this repositories are based on the python **2.7X**</br>
   Please referthe above link to download and for the installation procedures</br>
   
   # Py-Qt Installation 
@@ -16,7 +16,7 @@ I would like the viewers to comment about my coding also guide me if you find th
   Py-Qt is a python framework for the QT.</br>
   
   The Py-Qt can be downloaded from the link: https://www.riverbankcomputing.com/software/pyqt/download </br>
-  The examples written in this repositories are based on the PyQT 4</br>
+  The examples written in this repositories are based on the **PyQT 4**</br>
   Please refer the above link to download and for the installation procedures</br>
   
   # Cloning The Repository
