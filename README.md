@@ -15,9 +15,9 @@ I would like the viewers to comment about my coding also guide me if you find th
   
   Py-Qt is a python framework for the QT.
   
-  The Py-Qt can be downloaded from the link: https://www.riverbankcomputing.com/software/pyqt/download
+  The Py-Qt can be downloaded from the link: https://www.riverbankcomputing.com/software/pyqt/download 
   The examples written in this repositories are based on the PyQT 4
-  Please referthe above link to download and for the installation procedures
+  Please refer the above link to download and for the installation procedures
   
   # Cloning The Repository
   
