@@ -5,8 +5,6 @@ Thank you for finding me in GitHub,
 The coagulated scripts in this repositories are my learning and some of the findigs in the internet.
 I would like the viewers to comment about my coding also guide me if you find the improvements.
 
-You can write to me at shreenidhi.tvk@gmail.com
-
   # Python Installation
   
   Python can be downloade from  the link : https://www.python.org/downloads/
@@ -24,6 +22,18 @@ You can write to me at shreenidhi.tvk@gmail.com
   # Cloning The Repository
   
   You can clone this repository from the link : https://github.com/shreenidhitvk/Python.git from the GIT.
+  
+  # Python Editor
+  
+  Personally I am a fan of Atom editor for the Python.
+  Atom can be downloaded from the link : https://atom.io/
+  Atom Editor helps in speeding up the develompent process,also it comes with lot of handy and cool features.
+  
+  
+  
+  # contact 
+  You can write to me at : shreenidhi.tvk@gmail.com
+  
   
   
   
