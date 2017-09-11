@@ -1,10 +1,10 @@
 # cleanPy
 This is a utility called as **cleanPy**</br>
 
- Markup : *  Schedule the tool to scan for empty folders</br>
- Markup : *  Logs the empty file and folders name</br>
- Markup : *  Maintains the names date-wise</br>
- Markup : *  Easy marking and deleting</br>
+     -  Schedule the tool to scan for empty folders</br>
+     -  Logs the empty file and folders name</br>
+     -  Maintains the names date-wise</br>
+     -  Easy marking and deleting</br>
 
 
 
