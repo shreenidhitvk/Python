@@ -1,15 +1,16 @@
 # cleanPy
 This is a utility called as **cleanPy**</br>
+The intenstion behind this tool is to have the data about the unused or redendant files and folders
 
-  -  Schedule The Tool To Scan For Empty Folders</br>
+
+  -  Schedule The Tool To Scan For Empty Folders & Files</br>
   -  Logs The Empty File And Folders Name</br>
   -  Maintains The File & Folder Names Date-wise For One Week</br>
   -  Easy Marking & Deleting</br>
 
-
-
 The coagulated scripts in this repositories are my learning and some of the findings in the internet.</br>
 I would like the viewers to comment about my coding also guide me if you find the improvements.</br>
+if someone whishes to collaborate with me and contribute feel free to contact me </br>
 
   # Python Installation
 
